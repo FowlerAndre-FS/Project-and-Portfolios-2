@@ -10,7 +10,7 @@
 ![Degree Program](https://img.shields.io/badge/degree-web%20design%20%26%20development-blue.svg)&nbsp; ![Degree Program](https://img.shields.io/badge/degree-mobile%20design%20%26%20development-blue.svg)
 
 
-afowler@student.fullsail.edu -- (682) 259-4526 
+afowler@student.fullsail.edu -- (909) 780-2996 
 
 
 ---
