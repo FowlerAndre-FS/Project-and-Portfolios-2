@@ -1,0 +1,11 @@
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\bin\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.exe
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\bin\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.deps.json
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\bin\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.runtimeconfig.json
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\bin\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.runtimeconfig.dev.json
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\bin\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.dll
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\bin\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.pdb
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\obj\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.csprojAssemblyReference.cache
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\obj\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.AssemblyInfoInputs.cache
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\obj\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.AssemblyInfo.cs
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\obj\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.dll
+D:\Projects\Fiverr\Andre Fowler\ADF_2010_FowlerAndre\obj\Debug\netcoreapp3.1\ADF_2010_FowlerAndre.pdb
