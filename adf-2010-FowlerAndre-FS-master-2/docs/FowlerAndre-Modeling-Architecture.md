@@ -5,8 +5,6 @@ Update this document where indicated (brackets). Replace text inside the bracket
 
 <br>
 
-## [ Course Name <-- Replace all text in brackets ] 
-
 * **[ ADF - Modeling Architecture ]**
 * **[ Andre Fowler Jr ]**
 * **[ 10/09/2020 ]**
